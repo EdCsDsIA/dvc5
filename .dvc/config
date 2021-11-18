@@ -1,0 +1,6 @@
+[core]
+    remote = dvc5
+['remote "dvc1"']
+    url = gdrive://11DEIjiKO6cMGWrxeREaZFwDoTOVuPxo3
+['remote "dvc5"']
+    url = gdrive://11DEIjiKO6cMGWrxeREaZFwDoTOVuPxo3
